@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationContextInitializer=\
+  com.hongcj.config.init.CustomerInitConfig
+
+com.hongcj.config.common.CustomerLocator=\
+  com.hongcj.config.locator.ZookeeperLocator
